@@ -528,6 +528,3 @@ A worked, end-to-end example of building and running a LangChain agent.
 
 ---
 
-## Notes on This Document
-
-These notes were compiled from a personal LangChain course (OneNote export, ~143 pages) covering fundamentals through agentic RAG systems. Several original pages consisted primarily of diagrams, flowcharts, or code screenshots that don't carry over to plain text — those sections are represented here by their headings/topics only. For the full visual detail (diagrams, code screenshots, flowcharts), refer to the original PDF.
